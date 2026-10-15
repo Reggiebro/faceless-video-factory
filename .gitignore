@@ -1,0 +1,15 @@
+# Generated artifacts
+output_gallery/*.mp4
+assets/audio/*
+staging/script_*.txt
+staging/cashier_ledger.json
+staging/staged_topics.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
