@@ -5,6 +5,11 @@ staging/script_*.txt
 staging/cashier_ledger.json
 staging/staged_topics.json
 
+# Runtime state (local only — contains the live Backboard assistant id)
+staging/backboard_assistant_id
+staging/brain_decisions.json
+staging/chosen_topic.txt
+
 # Python
 __pycache__/
 *.pyc
